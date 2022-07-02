@@ -13,14 +13,13 @@ const AboutPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="ABout" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO title="About" keywords={[`portfolio`, `web developer`, `design`]} />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
-          </h2>
+          <h5>Hi, I'm Julian 👋</h5>
+          <p>Bachelor's in Systems Degree and Creative Developer.</p>
+          <p>Currenty studying Multimedia Design.</p>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
