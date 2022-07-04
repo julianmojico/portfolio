@@ -13,4 +13,4 @@ category: gaming
 ![BlackCat](./gato3.png)
 
 Music track was done in GarageBand
-### Play the <a href="http://elgatonegro.julianmojico.com/" target="_blank">story</a>!
+### Play the <a href="https://julianmojico.github.io/gato-negro-game/" target="_blank">story</a>!

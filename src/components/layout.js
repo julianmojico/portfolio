@@ -55,6 +55,14 @@ const Layout = props => {
               >
                 Github
               </a>
+              <a
+                href="https://www.linkedin.com/in/julianmojico/"
+                title="Linkedin"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Linkedin
+              </a>
               <a href="mailto:jmojico@gmail.com" title="E-mail">
                 E-mail
               </a>

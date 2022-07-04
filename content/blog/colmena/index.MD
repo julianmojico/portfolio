@@ -28,4 +28,4 @@ category: design
 ![Comena App](./Web-mobile.gif)
 ![Comena App](./slogan.png)
 
-### Visit the <a href="http://colmena.julianmojico.com/" target="_blank">site</a>
+### Visit the <a href="https://julianmojico.github.io/landing-colmena/" target="_blank">site</a>
