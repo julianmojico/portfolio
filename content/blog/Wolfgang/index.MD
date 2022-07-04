@@ -5,15 +5,22 @@ description:  Product branding
 thumbnail: ./mockup1.png
 ---
 
-### Logotype and geometry
-![Font](./wolfgang1.png)
+### Moodboard
+![MoodBoard](./wolfgang1.jpg)
+### Font
+![Font](./wolfgang2.png)
+### Insipiration
+![Inspiration](./wolfgang3.jpg)
+![Phrase](./wolfgang4.png)
 
+![Logo](./logo1.png)
+![Logo](./logo2.png)
+![Logo](./logo3.png)
+![Logo](./logo4.png)
+![Logo](./logo5.png)
+![Logo](./logo6.png)
+![Logo](./logo8.png)
+### Product mockups
+![Cloth mockup](./mockup2.png)
+![Cloth mockup](./mockup3.png)
 
-### Logotype and geometry
-![Logo process1](./logo1.png)
-
-### Logotype and geometry
-![Cloth mockup](./mockup1.png)
-
-_"Nature always wears the colors of the spirit"_.  
-Ralph Waldo Emerson
