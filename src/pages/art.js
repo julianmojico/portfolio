@@ -9,7 +9,7 @@ import PostCard from "../components/postCard"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 //TODO: switch to staticQuery, get rid of comments, remove unnecessary components, export as draft template
-const BlogIndex = ({ data }, location) => {
+const ArtPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
   let postCounter = 0
@@ -21,13 +21,9 @@ const BlogIndex = ({ data }, location) => {
         keywords={[`blog`, `gatsby`, `javascript`, `react`]}
       />
       {/* <Bio /> */}
-      {data.site.siteMetadata.description && (
-        <header className="page-head">
-          <h2 className="page-head-title">
-            {data.site.siteMetadata.description}
-          </h2>
-        </header>
-      )}
+      <header className="page-head">
+        <h2 className="page-head-title">Characters and stories</h2>
+      </header>
       <div className="post-feed">
         {posts.map(({ node }) => {
           postCounter++
@@ -55,7 +51,7 @@ const indexQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { category: { nin: "art" } } }
+      filter: { frontmatter: { category: { in: "art" } } }
     ) {
       edges {
         node {
@@ -85,7 +81,7 @@ export default props => (
   <StaticQuery
     query={indexQuery}
     render={data => (
-      <BlogIndex location={props.location} props data={data} {...props} />
+      <ArtPage location={props.location} props data={data} {...props} />
     )}
   />
 )

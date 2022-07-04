@@ -3,6 +3,7 @@ title: Digital Art
 date: "2015-05-27T22:40:32.169Z"
 description:  Photoshop scene
 thumbnail: ./Sullivan1.jpg
+category: art
 ---
 
 Sullivan is feeling good in Tokyo downtown, isn't he?

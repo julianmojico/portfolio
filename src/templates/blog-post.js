@@ -9,7 +9,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
-    const showThumbnailAtStart = post.frontmatter.showThumbnail
+    const showThumbnailAtStart = post.frontmatter.showThumbnailAtStart
 
     const thumbnail = (
       <div className="post-content-image">

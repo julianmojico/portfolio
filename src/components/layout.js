@@ -33,7 +33,7 @@ const Layout = props => {
                 <Link to={`/elements`}>Elements</Link>
               </li> */}
               <li className="nav-about" role="menuitem">
-                <Link to={`/design`}>Design</Link>
+                <Link to={`/art`}>Art</Link>
               </li>
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>

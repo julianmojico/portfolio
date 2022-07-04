@@ -1,8 +1,9 @@
 ---
-title: Digital Art
-date: "2015-05-27T22:40:32.169Z"
+title: Branding of
+date: "2024-05-27T22:40:32.169Z"
 description:  Product branding
 thumbnail: ./mockup1.png
+category: design
 ---
 
 ### Moodboard

@@ -1,9 +1,10 @@
 ---
-title: Colmena
-date: "2015-05-28T22:40:32.169Z"
-description:  Where students and professors can track progress of education career, share resources and feedback.
+title: App Branding
+date: "2023-05-28T22:40:32.169Z"
+description:  With Colmena, students and professors can track progress of education career, share resources and feedback.
 thumbnail: ./colmena-thumb.png
 showThumbnailAtStart: false
+category: design
 ---
 
 ![Comena Brand](./colmena1.png)
