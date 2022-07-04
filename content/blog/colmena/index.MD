@@ -3,6 +3,7 @@ title: Colmena
 date: "2015-05-28T22:40:32.169Z"
 description:  Where students and professors can track progress of education career, share resources and feedback.
 thumbnail: ./colmena-thumb.png
+showThumbnailAtStart: false
 ---
 
 ![Comena Brand](./colmena1.png)

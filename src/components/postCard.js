@@ -8,9 +8,9 @@ export default props => (
     } ${props.node.frontmatter.thumbnail ? `with-image` : `no-image`}`}
     style={
       props.node.frontmatter.thumbnail && {
-        backgroundImage: `url(${
-          props.node.frontmatter.thumbnail.childImageSharp.fluid.src
-        })`,
+        backgroundImage: `url(${props.node.frontmatter.thumbnail.childImageSharp.fluid.src})`,
+        backgroundRepeat: "no-repeat",
+        backgroundSize: "cover",
       }
     }
   >

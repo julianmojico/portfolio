@@ -9,6 +9,17 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
+    const showThumbnailAtStart = post.frontmatter.showThumbnail
+
+    const thumbnail = (
+      <div className="post-content-image">
+        <Img
+          className="kg-image"
+          fluid={post.frontmatter.thumbnail.childImageSharp.fluid}
+          alt={post.frontmatter.title}
+        />
+      </div>
+    )
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -27,20 +38,13 @@ class BlogPostTemplate extends React.Component {
             <p class="post-content-excerpt">{post.frontmatter.description}</p>
           )}
 
-          {post.frontmatter.thumbnail && (
-            <div className="post-content-image">
-              <Img
-                className="kg-image"
-                fluid={post.frontmatter.thumbnail.childImageSharp.fluid}
-                alt={post.frontmatter.title}
-              />
-            </div>
-          )}
+          {showThumbnailAtStart && post.frontmatter.thumbnail && thumbnail}
 
           <div
             className="post-content-body"
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
+          {!showThumbnailAtStart && post.frontmatter.thumbnail && thumbnail}
 
           <footer className="post-content-footer">
             {/* There are two options for how we display the byline/author-info.
@@ -69,6 +73,7 @@ export const pageQuery = graphql`
       excerpt(pruneLength: 160)
       html
       frontmatter {
+        showThumbnailAtStart
         title
         date(formatString: "MMMM DD, YYYY")
         description

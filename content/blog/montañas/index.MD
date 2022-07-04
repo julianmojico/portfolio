@@ -6,5 +6,5 @@ thumbnail: ./mountain1.png
 ---
 
 
-_"Nature always wears the colors of the spirit."_ 
+_"Nature always wears the colors of the spirit"_.  
 Ralph Waldo Emerson
