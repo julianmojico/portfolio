@@ -1,3 +1,0 @@
-# Julian Mojico
-
-## Personal portfolio
