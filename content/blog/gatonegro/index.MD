@@ -18,4 +18,4 @@ You will also enjoy some creepy music and FXs done in GarageBand. 🧟
 ![BlackCat](./gato2.png)
 ![BlackCat](./gato3.png)
 
-### Play the <a href="https://julianmojico.github.io/gato-negro-game/" target="_blank">story</a>!
+###  👉 Play the <a href="https://julianmojico.github.io/gato-negro-game/" target="_blank">story</a>!
