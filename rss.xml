@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Julian Mojico]]></title><description><![CDATA[Design, gaming and development]]></description><link>https://julianmojico.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Jul 2022 23:58:37 GMT</lastBuildDate><item><title><![CDATA[Branding of]]></title><description><![CDATA[Moodboard  Font  Insipiration 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Julian Mojico]]></title><description><![CDATA[Design, gaming and development]]></description><link>https://julianmojico.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Jul 2022 00:09:34 GMT</lastBuildDate><item><title><![CDATA[Branding of]]></title><description><![CDATA[Moodboard  Font  Insipiration 
  
 
 
@@ -9,7 +9,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2971b4ea300e263ae152014fe67dbaca/fb9d8/wolfgang1.jpg&quot;
+    href=&quot;/portfolio/static/2971b4ea300e263ae152014fe67dbaca/fb9d8/wolfgang1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -25,30 +25,30 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/2971b4ea300e263ae152014fe67dbaca/51a8e/wolfgang1.webp 340w,
-/static/2971b4ea300e263ae152014fe67dbaca/713b7/wolfgang1.webp 680w,
-/static/2971b4ea300e263ae152014fe67dbaca/54376/wolfgang1.webp 1360w,
-/static/2971b4ea300e263ae152014fe67dbaca/0be89/wolfgang1.webp 2040w,
-/static/2971b4ea300e263ae152014fe67dbaca/bbf79/wolfgang1.webp 2163w&quot;
+          srcset=&quot;/portfolio/static/2971b4ea300e263ae152014fe67dbaca/51a8e/wolfgang1.webp 340w,
+/portfolio/static/2971b4ea300e263ae152014fe67dbaca/713b7/wolfgang1.webp 680w,
+/portfolio/static/2971b4ea300e263ae152014fe67dbaca/54376/wolfgang1.webp 1360w,
+/portfolio/static/2971b4ea300e263ae152014fe67dbaca/0be89/wolfgang1.webp 2040w,
+/portfolio/static/2971b4ea300e263ae152014fe67dbaca/bbf79/wolfgang1.webp 2163w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/2971b4ea300e263ae152014fe67dbaca/2e524/wolfgang1.jpg 340w,
-/static/2971b4ea300e263ae152014fe67dbaca/d330d/wolfgang1.jpg 680w,
-/static/2971b4ea300e263ae152014fe67dbaca/6c26c/wolfgang1.jpg 1360w,
-/static/2971b4ea300e263ae152014fe67dbaca/afd2d/wolfgang1.jpg 2040w,
-/static/2971b4ea300e263ae152014fe67dbaca/fb9d8/wolfgang1.jpg 2163w&quot;
+          srcset=&quot;/portfolio/static/2971b4ea300e263ae152014fe67dbaca/2e524/wolfgang1.jpg 340w,
+/portfolio/static/2971b4ea300e263ae152014fe67dbaca/d330d/wolfgang1.jpg 680w,
+/portfolio/static/2971b4ea300e263ae152014fe67dbaca/6c26c/wolfgang1.jpg 1360w,
+/portfolio/static/2971b4ea300e263ae152014fe67dbaca/afd2d/wolfgang1.jpg 2040w,
+/portfolio/static/2971b4ea300e263ae152014fe67dbaca/fb9d8/wolfgang1.jpg 2163w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/2971b4ea300e263ae152014fe67dbaca/6c26c/wolfgang1.jpg&quot;
+          src=&quot;/portfolio/static/2971b4ea300e263ae152014fe67dbaca/6c26c/wolfgang1.jpg&quot;
           alt=&quot;MoodBoard&quot;
           title=&quot;&quot;
-          src=&quot;/static/2971b4ea300e263ae152014fe67dbaca/6c26c/wolfgang1.jpg&quot;
+          src=&quot;/portfolio/static/2971b4ea300e263ae152014fe67dbaca/6c26c/wolfgang1.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -60,7 +60,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/cea03f5e3015fde1383d98566f572422/a4b11/wolfgang2.png&quot;
+    href=&quot;/portfolio/static/cea03f5e3015fde1383d98566f572422/a4b11/wolfgang2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -76,30 +76,30 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/cea03f5e3015fde1383d98566f572422/51a8e/wolfgang2.webp 340w,
-/static/cea03f5e3015fde1383d98566f572422/713b7/wolfgang2.webp 680w,
-/static/cea03f5e3015fde1383d98566f572422/54376/wolfgang2.webp 1360w,
-/static/cea03f5e3015fde1383d98566f572422/0be89/wolfgang2.webp 2040w,
-/static/cea03f5e3015fde1383d98566f572422/34ccf/wolfgang2.webp 2560w&quot;
+          srcset=&quot;/portfolio/static/cea03f5e3015fde1383d98566f572422/51a8e/wolfgang2.webp 340w,
+/portfolio/static/cea03f5e3015fde1383d98566f572422/713b7/wolfgang2.webp 680w,
+/portfolio/static/cea03f5e3015fde1383d98566f572422/54376/wolfgang2.webp 1360w,
+/portfolio/static/cea03f5e3015fde1383d98566f572422/0be89/wolfgang2.webp 2040w,
+/portfolio/static/cea03f5e3015fde1383d98566f572422/34ccf/wolfgang2.webp 2560w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/cea03f5e3015fde1383d98566f572422/ad208/wolfgang2.png 340w,
-/static/cea03f5e3015fde1383d98566f572422/a5a26/wolfgang2.png 680w,
-/static/cea03f5e3015fde1383d98566f572422/60356/wolfgang2.png 1360w,
-/static/cea03f5e3015fde1383d98566f572422/bb4cf/wolfgang2.png 2040w,
-/static/cea03f5e3015fde1383d98566f572422/a4b11/wolfgang2.png 2560w&quot;
+          srcset=&quot;/portfolio/static/cea03f5e3015fde1383d98566f572422/ad208/wolfgang2.png 340w,
+/portfolio/static/cea03f5e3015fde1383d98566f572422/a5a26/wolfgang2.png 680w,
+/portfolio/static/cea03f5e3015fde1383d98566f572422/60356/wolfgang2.png 1360w,
+/portfolio/static/cea03f5e3015fde1383d98566f572422/bb4cf/wolfgang2.png 2040w,
+/portfolio/static/cea03f5e3015fde1383d98566f572422/a4b11/wolfgang2.png 2560w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/cea03f5e3015fde1383d98566f572422/60356/wolfgang2.png&quot;
+          src=&quot;/portfolio/static/cea03f5e3015fde1383d98566f572422/60356/wolfgang2.png&quot;
           alt=&quot;Font&quot;
           title=&quot;&quot;
-          src=&quot;/static/cea03f5e3015fde1383d98566f572422/60356/wolfgang2.png&quot;
+          src=&quot;/portfolio/static/cea03f5e3015fde1383d98566f572422/60356/wolfgang2.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -111,7 +111,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/daee8fd0cfb5ec8aefa2ca596149123e/e95b5/wolfgang3.jpg&quot;
+    href=&quot;/portfolio/static/daee8fd0cfb5ec8aefa2ca596149123e/e95b5/wolfgang3.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -127,26 +127,26 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/daee8fd0cfb5ec8aefa2ca596149123e/51a8e/wolfgang3.webp 340w,
-/static/daee8fd0cfb5ec8aefa2ca596149123e/713b7/wolfgang3.webp 680w,
-/static/daee8fd0cfb5ec8aefa2ca596149123e/701c5/wolfgang3.webp 1024w&quot;
+          srcset=&quot;/portfolio/static/daee8fd0cfb5ec8aefa2ca596149123e/51a8e/wolfgang3.webp 340w,
+/portfolio/static/daee8fd0cfb5ec8aefa2ca596149123e/713b7/wolfgang3.webp 680w,
+/portfolio/static/daee8fd0cfb5ec8aefa2ca596149123e/701c5/wolfgang3.webp 1024w&quot;
           sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/daee8fd0cfb5ec8aefa2ca596149123e/2e524/wolfgang3.jpg 340w,
-/static/daee8fd0cfb5ec8aefa2ca596149123e/d330d/wolfgang3.jpg 680w,
-/static/daee8fd0cfb5ec8aefa2ca596149123e/e95b5/wolfgang3.jpg 1024w&quot;
+          srcset=&quot;/portfolio/static/daee8fd0cfb5ec8aefa2ca596149123e/2e524/wolfgang3.jpg 340w,
+/portfolio/static/daee8fd0cfb5ec8aefa2ca596149123e/d330d/wolfgang3.jpg 680w,
+/portfolio/static/daee8fd0cfb5ec8aefa2ca596149123e/e95b5/wolfgang3.jpg 1024w&quot;
           sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/daee8fd0cfb5ec8aefa2ca596149123e/e95b5/wolfgang3.jpg&quot;
+          src=&quot;/portfolio/static/daee8fd0cfb5ec8aefa2ca596149123e/e95b5/wolfgang3.jpg&quot;
           alt=&quot;Inspiration&quot;
           title=&quot;&quot;
-          src=&quot;/static/daee8fd0cfb5ec8aefa2ca596149123e/e95b5/wolfgang3.jpg&quot;
+          src=&quot;/portfolio/static/daee8fd0cfb5ec8aefa2ca596149123e/e95b5/wolfgang3.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -157,7 +157,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d2a1945b76bc9e91e2baf6caf79ae60c/a4b11/wolfgang4.png&quot;
+    href=&quot;/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/a4b11/wolfgang4.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -173,30 +173,30 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/d2a1945b76bc9e91e2baf6caf79ae60c/51a8e/wolfgang4.webp 340w,
-/static/d2a1945b76bc9e91e2baf6caf79ae60c/713b7/wolfgang4.webp 680w,
-/static/d2a1945b76bc9e91e2baf6caf79ae60c/54376/wolfgang4.webp 1360w,
-/static/d2a1945b76bc9e91e2baf6caf79ae60c/0be89/wolfgang4.webp 2040w,
-/static/d2a1945b76bc9e91e2baf6caf79ae60c/34ccf/wolfgang4.webp 2560w&quot;
+          srcset=&quot;/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/51a8e/wolfgang4.webp 340w,
+/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/713b7/wolfgang4.webp 680w,
+/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/54376/wolfgang4.webp 1360w,
+/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/0be89/wolfgang4.webp 2040w,
+/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/34ccf/wolfgang4.webp 2560w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/d2a1945b76bc9e91e2baf6caf79ae60c/ad208/wolfgang4.png 340w,
-/static/d2a1945b76bc9e91e2baf6caf79ae60c/a5a26/wolfgang4.png 680w,
-/static/d2a1945b76bc9e91e2baf6caf79ae60c/60356/wolfgang4.png 1360w,
-/static/d2a1945b76bc9e91e2baf6caf79ae60c/bb4cf/wolfgang4.png 2040w,
-/static/d2a1945b76bc9e91e2baf6caf79ae60c/a4b11/wolfgang4.png 2560w&quot;
+          srcset=&quot;/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/ad208/wolfgang4.png 340w,
+/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/a5a26/wolfgang4.png 680w,
+/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/60356/wolfgang4.png 1360w,
+/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/bb4cf/wolfgang4.png 2040w,
+/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/a4b11/wolfgang4.png 2560w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/d2a1945b76bc9e91e2baf6caf79ae60c/60356/wolfgang4.png&quot;
+          src=&quot;/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/60356/wolfgang4.png&quot;
           alt=&quot;Phrase&quot;
           title=&quot;&quot;
-          src=&quot;/static/d2a1945b76bc9e91e2baf6caf79ae60c/60356/wolfgang4.png&quot;
+          src=&quot;/portfolio/static/d2a1945b76bc9e91e2baf6caf79ae60c/60356/wolfgang4.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -207,7 +207,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b86bf47c9dfcda8ee7af8dc2ec52c0a7/751fc/logo1.png&quot;
+    href=&quot;/portfolio/static/b86bf47c9dfcda8ee7af8dc2ec52c0a7/751fc/logo1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -223,22 +223,22 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/b86bf47c9dfcda8ee7af8dc2ec52c0a7/5c0de/logo1.webp 240w&quot;
+          srcset=&quot;/portfolio/static/b86bf47c9dfcda8ee7af8dc2ec52c0a7/5c0de/logo1.webp 240w&quot;
           sizes=&quot;(max-width: 240px) 100vw, 240px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/b86bf47c9dfcda8ee7af8dc2ec52c0a7/751fc/logo1.png 240w&quot;
+          srcset=&quot;/portfolio/static/b86bf47c9dfcda8ee7af8dc2ec52c0a7/751fc/logo1.png 240w&quot;
           sizes=&quot;(max-width: 240px) 100vw, 240px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/b86bf47c9dfcda8ee7af8dc2ec52c0a7/751fc/logo1.png&quot;
+          src=&quot;/portfolio/static/b86bf47c9dfcda8ee7af8dc2ec52c0a7/751fc/logo1.png&quot;
           alt=&quot;Logo&quot;
           title=&quot;&quot;
-          src=&quot;/static/b86bf47c9dfcda8ee7af8dc2ec52c0a7/751fc/logo1.png&quot;
+          src=&quot;/portfolio/static/b86bf47c9dfcda8ee7af8dc2ec52c0a7/751fc/logo1.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -249,7 +249,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b138ea79ea725edddb989323ed6f87de/59afc/logo2.png&quot;
+    href=&quot;/portfolio/static/b138ea79ea725edddb989323ed6f87de/59afc/logo2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -265,22 +265,22 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/b138ea79ea725edddb989323ed6f87de/63380/logo2.webp 200w&quot;
+          srcset=&quot;/portfolio/static/b138ea79ea725edddb989323ed6f87de/63380/logo2.webp 200w&quot;
           sizes=&quot;(max-width: 200px) 100vw, 200px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/b138ea79ea725edddb989323ed6f87de/59afc/logo2.png 200w&quot;
+          srcset=&quot;/portfolio/static/b138ea79ea725edddb989323ed6f87de/59afc/logo2.png 200w&quot;
           sizes=&quot;(max-width: 200px) 100vw, 200px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/b138ea79ea725edddb989323ed6f87de/59afc/logo2.png&quot;
+          src=&quot;/portfolio/static/b138ea79ea725edddb989323ed6f87de/59afc/logo2.png&quot;
           alt=&quot;Logo&quot;
           title=&quot;&quot;
-          src=&quot;/static/b138ea79ea725edddb989323ed6f87de/59afc/logo2.png&quot;
+          src=&quot;/portfolio/static/b138ea79ea725edddb989323ed6f87de/59afc/logo2.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -291,7 +291,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bbd7ffe78fd94f259a6bfc2bfa92b2e0/71849/logo3.png&quot;
+    href=&quot;/portfolio/static/bbd7ffe78fd94f259a6bfc2bfa92b2e0/71849/logo3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -307,22 +307,22 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/bbd7ffe78fd94f259a6bfc2bfa92b2e0/94061/logo3.webp 199w&quot;
+          srcset=&quot;/portfolio/static/bbd7ffe78fd94f259a6bfc2bfa92b2e0/94061/logo3.webp 199w&quot;
           sizes=&quot;(max-width: 199px) 100vw, 199px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/bbd7ffe78fd94f259a6bfc2bfa92b2e0/71849/logo3.png 199w&quot;
+          srcset=&quot;/portfolio/static/bbd7ffe78fd94f259a6bfc2bfa92b2e0/71849/logo3.png 199w&quot;
           sizes=&quot;(max-width: 199px) 100vw, 199px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/bbd7ffe78fd94f259a6bfc2bfa92b2e0/71849/logo3.png&quot;
+          src=&quot;/portfolio/static/bbd7ffe78fd94f259a6bfc2bfa92b2e0/71849/logo3.png&quot;
           alt=&quot;Logo&quot;
           title=&quot;&quot;
-          src=&quot;/static/bbd7ffe78fd94f259a6bfc2bfa92b2e0/71849/logo3.png&quot;
+          src=&quot;/portfolio/static/bbd7ffe78fd94f259a6bfc2bfa92b2e0/71849/logo3.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -333,7 +333,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b1f4f865b7164703f15075bc09be1037/07435/logo4.png&quot;
+    href=&quot;/portfolio/static/b1f4f865b7164703f15075bc09be1037/07435/logo4.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -349,22 +349,22 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/b1f4f865b7164703f15075bc09be1037/e2ff6/logo4.webp 96w&quot;
+          srcset=&quot;/portfolio/static/b1f4f865b7164703f15075bc09be1037/e2ff6/logo4.webp 96w&quot;
           sizes=&quot;(max-width: 96px) 100vw, 96px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/b1f4f865b7164703f15075bc09be1037/07435/logo4.png 96w&quot;
+          srcset=&quot;/portfolio/static/b1f4f865b7164703f15075bc09be1037/07435/logo4.png 96w&quot;
           sizes=&quot;(max-width: 96px) 100vw, 96px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/b1f4f865b7164703f15075bc09be1037/07435/logo4.png&quot;
+          src=&quot;/portfolio/static/b1f4f865b7164703f15075bc09be1037/07435/logo4.png&quot;
           alt=&quot;Logo&quot;
           title=&quot;&quot;
-          src=&quot;/static/b1f4f865b7164703f15075bc09be1037/07435/logo4.png&quot;
+          src=&quot;/portfolio/static/b1f4f865b7164703f15075bc09be1037/07435/logo4.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -375,7 +375,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a7829022d6ca5a98e6dc4c68abfaf5e9/83276/logo5.png&quot;
+    href=&quot;/portfolio/static/a7829022d6ca5a98e6dc4c68abfaf5e9/83276/logo5.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -391,22 +391,22 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/a7829022d6ca5a98e6dc4c68abfaf5e9/0467c/logo5.webp 148w&quot;
+          srcset=&quot;/portfolio/static/a7829022d6ca5a98e6dc4c68abfaf5e9/0467c/logo5.webp 148w&quot;
           sizes=&quot;(max-width: 148px) 100vw, 148px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/a7829022d6ca5a98e6dc4c68abfaf5e9/83276/logo5.png 148w&quot;
+          srcset=&quot;/portfolio/static/a7829022d6ca5a98e6dc4c68abfaf5e9/83276/logo5.png 148w&quot;
           sizes=&quot;(max-width: 148px) 100vw, 148px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/a7829022d6ca5a98e6dc4c68abfaf5e9/83276/logo5.png&quot;
+          src=&quot;/portfolio/static/a7829022d6ca5a98e6dc4c68abfaf5e9/83276/logo5.png&quot;
           alt=&quot;Logo&quot;
           title=&quot;&quot;
-          src=&quot;/static/a7829022d6ca5a98e6dc4c68abfaf5e9/83276/logo5.png&quot;
+          src=&quot;/portfolio/static/a7829022d6ca5a98e6dc4c68abfaf5e9/83276/logo5.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -417,7 +417,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6ab12614ae6bc0e93ba63f0e9c1ea760/79fb8/logo6.png&quot;
+    href=&quot;/portfolio/static/6ab12614ae6bc0e93ba63f0e9c1ea760/79fb8/logo6.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -433,22 +433,22 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/6ab12614ae6bc0e93ba63f0e9c1ea760/2b7cc/logo6.webp 205w&quot;
+          srcset=&quot;/portfolio/static/6ab12614ae6bc0e93ba63f0e9c1ea760/2b7cc/logo6.webp 205w&quot;
           sizes=&quot;(max-width: 205px) 100vw, 205px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/6ab12614ae6bc0e93ba63f0e9c1ea760/79fb8/logo6.png 205w&quot;
+          srcset=&quot;/portfolio/static/6ab12614ae6bc0e93ba63f0e9c1ea760/79fb8/logo6.png 205w&quot;
           sizes=&quot;(max-width: 205px) 100vw, 205px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/6ab12614ae6bc0e93ba63f0e9c1ea760/79fb8/logo6.png&quot;
+          src=&quot;/portfolio/static/6ab12614ae6bc0e93ba63f0e9c1ea760/79fb8/logo6.png&quot;
           alt=&quot;Logo&quot;
           title=&quot;&quot;
-          src=&quot;/static/6ab12614ae6bc0e93ba63f0e9c1ea760/79fb8/logo6.png&quot;
+          src=&quot;/portfolio/static/6ab12614ae6bc0e93ba63f0e9c1ea760/79fb8/logo6.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -459,7 +459,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6f3f1c0b73d49ed8b90d8e438a23ebd8/3eabe/logo8.png&quot;
+    href=&quot;/portfolio/static/6f3f1c0b73d49ed8b90d8e438a23ebd8/3eabe/logo8.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -475,22 +475,22 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/6f3f1c0b73d49ed8b90d8e438a23ebd8/3468d/logo8.webp 336w&quot;
+          srcset=&quot;/portfolio/static/6f3f1c0b73d49ed8b90d8e438a23ebd8/3468d/logo8.webp 336w&quot;
           sizes=&quot;(max-width: 336px) 100vw, 336px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/6f3f1c0b73d49ed8b90d8e438a23ebd8/3eabe/logo8.png 336w&quot;
+          srcset=&quot;/portfolio/static/6f3f1c0b73d49ed8b90d8e438a23ebd8/3eabe/logo8.png 336w&quot;
           sizes=&quot;(max-width: 336px) 100vw, 336px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/6f3f1c0b73d49ed8b90d8e438a23ebd8/3eabe/logo8.png&quot;
+          src=&quot;/portfolio/static/6f3f1c0b73d49ed8b90d8e438a23ebd8/3eabe/logo8.png&quot;
           alt=&quot;Logo&quot;
           title=&quot;&quot;
-          src=&quot;/static/6f3f1c0b73d49ed8b90d8e438a23ebd8/3eabe/logo8.png&quot;
+          src=&quot;/portfolio/static/6f3f1c0b73d49ed8b90d8e438a23ebd8/3eabe/logo8.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -502,7 +502,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a007deebca7d204222ceff034e2bea30/9a310/mockup2.png&quot;
+    href=&quot;/portfolio/static/a007deebca7d204222ceff034e2bea30/9a310/mockup2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -518,32 +518,32 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/a007deebca7d204222ceff034e2bea30/51a8e/mockup2.webp 340w,
-/static/a007deebca7d204222ceff034e2bea30/713b7/mockup2.webp 680w,
-/static/a007deebca7d204222ceff034e2bea30/54376/mockup2.webp 1360w,
-/static/a007deebca7d204222ceff034e2bea30/0be89/mockup2.webp 2040w,
-/static/a007deebca7d204222ceff034e2bea30/71194/mockup2.webp 2720w,
-/static/a007deebca7d204222ceff034e2bea30/695f8/mockup2.webp 5306w&quot;
+          srcset=&quot;/portfolio/static/a007deebca7d204222ceff034e2bea30/51a8e/mockup2.webp 340w,
+/portfolio/static/a007deebca7d204222ceff034e2bea30/713b7/mockup2.webp 680w,
+/portfolio/static/a007deebca7d204222ceff034e2bea30/54376/mockup2.webp 1360w,
+/portfolio/static/a007deebca7d204222ceff034e2bea30/0be89/mockup2.webp 2040w,
+/portfolio/static/a007deebca7d204222ceff034e2bea30/71194/mockup2.webp 2720w,
+/portfolio/static/a007deebca7d204222ceff034e2bea30/695f8/mockup2.webp 5306w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/a007deebca7d204222ceff034e2bea30/ad208/mockup2.png 340w,
-/static/a007deebca7d204222ceff034e2bea30/a5a26/mockup2.png 680w,
-/static/a007deebca7d204222ceff034e2bea30/60356/mockup2.png 1360w,
-/static/a007deebca7d204222ceff034e2bea30/bb4cf/mockup2.png 2040w,
-/static/a007deebca7d204222ceff034e2bea30/df13e/mockup2.png 2720w,
-/static/a007deebca7d204222ceff034e2bea30/9a310/mockup2.png 5306w&quot;
+          srcset=&quot;/portfolio/static/a007deebca7d204222ceff034e2bea30/ad208/mockup2.png 340w,
+/portfolio/static/a007deebca7d204222ceff034e2bea30/a5a26/mockup2.png 680w,
+/portfolio/static/a007deebca7d204222ceff034e2bea30/60356/mockup2.png 1360w,
+/portfolio/static/a007deebca7d204222ceff034e2bea30/bb4cf/mockup2.png 2040w,
+/portfolio/static/a007deebca7d204222ceff034e2bea30/df13e/mockup2.png 2720w,
+/portfolio/static/a007deebca7d204222ceff034e2bea30/9a310/mockup2.png 5306w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/a007deebca7d204222ceff034e2bea30/60356/mockup2.png&quot;
+          src=&quot;/portfolio/static/a007deebca7d204222ceff034e2bea30/60356/mockup2.png&quot;
           alt=&quot;Cloth mockup&quot;
           title=&quot;&quot;
-          src=&quot;/static/a007deebca7d204222ceff034e2bea30/60356/mockup2.png&quot;
+          src=&quot;/portfolio/static/a007deebca7d204222ceff034e2bea30/60356/mockup2.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -554,7 +554,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/28313cfbb06662b3e96567a445534a65/28b3b/mockup3.png&quot;
+    href=&quot;/portfolio/static/28313cfbb06662b3e96567a445534a65/28b3b/mockup3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -570,32 +570,32 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/28313cfbb06662b3e96567a445534a65/51a8e/mockup3.webp 340w,
-/static/28313cfbb06662b3e96567a445534a65/713b7/mockup3.webp 680w,
-/static/28313cfbb06662b3e96567a445534a65/54376/mockup3.webp 1360w,
-/static/28313cfbb06662b3e96567a445534a65/0be89/mockup3.webp 2040w,
-/static/28313cfbb06662b3e96567a445534a65/71194/mockup3.webp 2720w,
-/static/28313cfbb06662b3e96567a445534a65/b7fd3/mockup3.webp 4000w&quot;
+          srcset=&quot;/portfolio/static/28313cfbb06662b3e96567a445534a65/51a8e/mockup3.webp 340w,
+/portfolio/static/28313cfbb06662b3e96567a445534a65/713b7/mockup3.webp 680w,
+/portfolio/static/28313cfbb06662b3e96567a445534a65/54376/mockup3.webp 1360w,
+/portfolio/static/28313cfbb06662b3e96567a445534a65/0be89/mockup3.webp 2040w,
+/portfolio/static/28313cfbb06662b3e96567a445534a65/71194/mockup3.webp 2720w,
+/portfolio/static/28313cfbb06662b3e96567a445534a65/b7fd3/mockup3.webp 4000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/28313cfbb06662b3e96567a445534a65/ad208/mockup3.png 340w,
-/static/28313cfbb06662b3e96567a445534a65/a5a26/mockup3.png 680w,
-/static/28313cfbb06662b3e96567a445534a65/60356/mockup3.png 1360w,
-/static/28313cfbb06662b3e96567a445534a65/bb4cf/mockup3.png 2040w,
-/static/28313cfbb06662b3e96567a445534a65/df13e/mockup3.png 2720w,
-/static/28313cfbb06662b3e96567a445534a65/28b3b/mockup3.png 4000w&quot;
+          srcset=&quot;/portfolio/static/28313cfbb06662b3e96567a445534a65/ad208/mockup3.png 340w,
+/portfolio/static/28313cfbb06662b3e96567a445534a65/a5a26/mockup3.png 680w,
+/portfolio/static/28313cfbb06662b3e96567a445534a65/60356/mockup3.png 1360w,
+/portfolio/static/28313cfbb06662b3e96567a445534a65/bb4cf/mockup3.png 2040w,
+/portfolio/static/28313cfbb06662b3e96567a445534a65/df13e/mockup3.png 2720w,
+/portfolio/static/28313cfbb06662b3e96567a445534a65/28b3b/mockup3.png 4000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/28313cfbb06662b3e96567a445534a65/60356/mockup3.png&quot;
+          src=&quot;/portfolio/static/28313cfbb06662b3e96567a445534a65/60356/mockup3.png&quot;
           alt=&quot;Cloth mockup&quot;
           title=&quot;&quot;
-          src=&quot;/static/28313cfbb06662b3e96567a445534a65/60356/mockup3.png&quot;
+          src=&quot;/portfolio/static/28313cfbb06662b3e96567a445534a65/60356/mockup3.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -607,7 +607,7 @@
  Landing site developed in Bootstrap Desktop Comena App…]]></description><link>https://julianmojico.com/colmena/</link><guid isPermaLink="false">https://julianmojico.com/colmena/</guid><pubDate>Sun, 28 May 2023 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/e957c/colmena1.png&quot;
+    href=&quot;/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/e957c/colmena1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -623,28 +623,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/51a8e/colmena1.webp 340w,
-/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/713b7/colmena1.webp 680w,
-/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/54376/colmena1.webp 1360w,
-/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/e0aab/colmena1.webp 1920w&quot;
+          srcset=&quot;/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/51a8e/colmena1.webp 340w,
+/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/713b7/colmena1.webp 680w,
+/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/54376/colmena1.webp 1360w,
+/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/e0aab/colmena1.webp 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/ad208/colmena1.png 340w,
-/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/a5a26/colmena1.png 680w,
-/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/60356/colmena1.png 1360w,
-/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/e957c/colmena1.png 1920w&quot;
+          srcset=&quot;/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/ad208/colmena1.png 340w,
+/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/a5a26/colmena1.png 680w,
+/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/60356/colmena1.png 1360w,
+/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/e957c/colmena1.png 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/60356/colmena1.png&quot;
+          src=&quot;/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/60356/colmena1.png&quot;
           alt=&quot;Comena Brand&quot;
           title=&quot;&quot;
-          src=&quot;/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/60356/colmena1.png&quot;
+          src=&quot;/portfolio/static/e0ab24abcb02388ce53d5f8d9ea1fc9c/60356/colmena1.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -655,7 +655,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e174622c78d764a8f69c9d50730ca24c/e957c/colmena2.png&quot;
+    href=&quot;/portfolio/static/e174622c78d764a8f69c9d50730ca24c/e957c/colmena2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -671,28 +671,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/e174622c78d764a8f69c9d50730ca24c/51a8e/colmena2.webp 340w,
-/static/e174622c78d764a8f69c9d50730ca24c/713b7/colmena2.webp 680w,
-/static/e174622c78d764a8f69c9d50730ca24c/54376/colmena2.webp 1360w,
-/static/e174622c78d764a8f69c9d50730ca24c/e0aab/colmena2.webp 1920w&quot;
+          srcset=&quot;/portfolio/static/e174622c78d764a8f69c9d50730ca24c/51a8e/colmena2.webp 340w,
+/portfolio/static/e174622c78d764a8f69c9d50730ca24c/713b7/colmena2.webp 680w,
+/portfolio/static/e174622c78d764a8f69c9d50730ca24c/54376/colmena2.webp 1360w,
+/portfolio/static/e174622c78d764a8f69c9d50730ca24c/e0aab/colmena2.webp 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/e174622c78d764a8f69c9d50730ca24c/ad208/colmena2.png 340w,
-/static/e174622c78d764a8f69c9d50730ca24c/a5a26/colmena2.png 680w,
-/static/e174622c78d764a8f69c9d50730ca24c/60356/colmena2.png 1360w,
-/static/e174622c78d764a8f69c9d50730ca24c/e957c/colmena2.png 1920w&quot;
+          srcset=&quot;/portfolio/static/e174622c78d764a8f69c9d50730ca24c/ad208/colmena2.png 340w,
+/portfolio/static/e174622c78d764a8f69c9d50730ca24c/a5a26/colmena2.png 680w,
+/portfolio/static/e174622c78d764a8f69c9d50730ca24c/60356/colmena2.png 1360w,
+/portfolio/static/e174622c78d764a8f69c9d50730ca24c/e957c/colmena2.png 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/e174622c78d764a8f69c9d50730ca24c/60356/colmena2.png&quot;
+          src=&quot;/portfolio/static/e174622c78d764a8f69c9d50730ca24c/60356/colmena2.png&quot;
           alt=&quot;Comena App&quot;
           title=&quot;&quot;
-          src=&quot;/static/e174622c78d764a8f69c9d50730ca24c/60356/colmena2.png&quot;
+          src=&quot;/portfolio/static/e174622c78d764a8f69c9d50730ca24c/60356/colmena2.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -704,7 +704,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/493f2644740b6351f93ef8f6a61de7af/e957c/colmena3.png&quot;
+    href=&quot;/portfolio/static/493f2644740b6351f93ef8f6a61de7af/e957c/colmena3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -720,28 +720,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/493f2644740b6351f93ef8f6a61de7af/51a8e/colmena3.webp 340w,
-/static/493f2644740b6351f93ef8f6a61de7af/713b7/colmena3.webp 680w,
-/static/493f2644740b6351f93ef8f6a61de7af/54376/colmena3.webp 1360w,
-/static/493f2644740b6351f93ef8f6a61de7af/e0aab/colmena3.webp 1920w&quot;
+          srcset=&quot;/portfolio/static/493f2644740b6351f93ef8f6a61de7af/51a8e/colmena3.webp 340w,
+/portfolio/static/493f2644740b6351f93ef8f6a61de7af/713b7/colmena3.webp 680w,
+/portfolio/static/493f2644740b6351f93ef8f6a61de7af/54376/colmena3.webp 1360w,
+/portfolio/static/493f2644740b6351f93ef8f6a61de7af/e0aab/colmena3.webp 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/493f2644740b6351f93ef8f6a61de7af/ad208/colmena3.png 340w,
-/static/493f2644740b6351f93ef8f6a61de7af/a5a26/colmena3.png 680w,
-/static/493f2644740b6351f93ef8f6a61de7af/60356/colmena3.png 1360w,
-/static/493f2644740b6351f93ef8f6a61de7af/e957c/colmena3.png 1920w&quot;
+          srcset=&quot;/portfolio/static/493f2644740b6351f93ef8f6a61de7af/ad208/colmena3.png 340w,
+/portfolio/static/493f2644740b6351f93ef8f6a61de7af/a5a26/colmena3.png 680w,
+/portfolio/static/493f2644740b6351f93ef8f6a61de7af/60356/colmena3.png 1360w,
+/portfolio/static/493f2644740b6351f93ef8f6a61de7af/e957c/colmena3.png 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/493f2644740b6351f93ef8f6a61de7af/60356/colmena3.png&quot;
+          src=&quot;/portfolio/static/493f2644740b6351f93ef8f6a61de7af/60356/colmena3.png&quot;
           alt=&quot;Comena App&quot;
           title=&quot;&quot;
-          src=&quot;/static/493f2644740b6351f93ef8f6a61de7af/60356/colmena3.png&quot;
+          src=&quot;/portfolio/static/493f2644740b6351f93ef8f6a61de7af/60356/colmena3.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -753,7 +753,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b7f2ae10e7b9489f96f210ed77629083/e957c/colmena4.png&quot;
+    href=&quot;/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/e957c/colmena4.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -769,28 +769,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/b7f2ae10e7b9489f96f210ed77629083/51a8e/colmena4.webp 340w,
-/static/b7f2ae10e7b9489f96f210ed77629083/713b7/colmena4.webp 680w,
-/static/b7f2ae10e7b9489f96f210ed77629083/54376/colmena4.webp 1360w,
-/static/b7f2ae10e7b9489f96f210ed77629083/e0aab/colmena4.webp 1920w&quot;
+          srcset=&quot;/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/51a8e/colmena4.webp 340w,
+/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/713b7/colmena4.webp 680w,
+/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/54376/colmena4.webp 1360w,
+/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/e0aab/colmena4.webp 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/b7f2ae10e7b9489f96f210ed77629083/ad208/colmena4.png 340w,
-/static/b7f2ae10e7b9489f96f210ed77629083/a5a26/colmena4.png 680w,
-/static/b7f2ae10e7b9489f96f210ed77629083/60356/colmena4.png 1360w,
-/static/b7f2ae10e7b9489f96f210ed77629083/e957c/colmena4.png 1920w&quot;
+          srcset=&quot;/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/ad208/colmena4.png 340w,
+/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/a5a26/colmena4.png 680w,
+/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/60356/colmena4.png 1360w,
+/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/e957c/colmena4.png 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/b7f2ae10e7b9489f96f210ed77629083/60356/colmena4.png&quot;
+          src=&quot;/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/60356/colmena4.png&quot;
           alt=&quot;Comena App&quot;
           title=&quot;&quot;
-          src=&quot;/static/b7f2ae10e7b9489f96f210ed77629083/60356/colmena4.png&quot;
+          src=&quot;/portfolio/static/b7f2ae10e7b9489f96f210ed77629083/60356/colmena4.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -802,7 +802,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f77dac5814b97d9ca1ffcdc7d4189a16/e957c/colmena5.png&quot;
+    href=&quot;/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/e957c/colmena5.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -818,28 +818,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/f77dac5814b97d9ca1ffcdc7d4189a16/51a8e/colmena5.webp 340w,
-/static/f77dac5814b97d9ca1ffcdc7d4189a16/713b7/colmena5.webp 680w,
-/static/f77dac5814b97d9ca1ffcdc7d4189a16/54376/colmena5.webp 1360w,
-/static/f77dac5814b97d9ca1ffcdc7d4189a16/e0aab/colmena5.webp 1920w&quot;
+          srcset=&quot;/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/51a8e/colmena5.webp 340w,
+/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/713b7/colmena5.webp 680w,
+/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/54376/colmena5.webp 1360w,
+/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/e0aab/colmena5.webp 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/f77dac5814b97d9ca1ffcdc7d4189a16/ad208/colmena5.png 340w,
-/static/f77dac5814b97d9ca1ffcdc7d4189a16/a5a26/colmena5.png 680w,
-/static/f77dac5814b97d9ca1ffcdc7d4189a16/60356/colmena5.png 1360w,
-/static/f77dac5814b97d9ca1ffcdc7d4189a16/e957c/colmena5.png 1920w&quot;
+          srcset=&quot;/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/ad208/colmena5.png 340w,
+/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/a5a26/colmena5.png 680w,
+/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/60356/colmena5.png 1360w,
+/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/e957c/colmena5.png 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/f77dac5814b97d9ca1ffcdc7d4189a16/60356/colmena5.png&quot;
+          src=&quot;/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/60356/colmena5.png&quot;
           alt=&quot;Comena App&quot;
           title=&quot;&quot;
-          src=&quot;/static/f77dac5814b97d9ca1ffcdc7d4189a16/60356/colmena5.png&quot;
+          src=&quot;/portfolio/static/f77dac5814b97d9ca1ffcdc7d4189a16/60356/colmena5.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -851,7 +851,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/9f0056b8aedbdbcd6be8f464d37758d6/e957c/colmena6.png&quot;
+    href=&quot;/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/e957c/colmena6.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -867,28 +867,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/9f0056b8aedbdbcd6be8f464d37758d6/51a8e/colmena6.webp 340w,
-/static/9f0056b8aedbdbcd6be8f464d37758d6/713b7/colmena6.webp 680w,
-/static/9f0056b8aedbdbcd6be8f464d37758d6/54376/colmena6.webp 1360w,
-/static/9f0056b8aedbdbcd6be8f464d37758d6/e0aab/colmena6.webp 1920w&quot;
+          srcset=&quot;/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/51a8e/colmena6.webp 340w,
+/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/713b7/colmena6.webp 680w,
+/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/54376/colmena6.webp 1360w,
+/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/e0aab/colmena6.webp 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/9f0056b8aedbdbcd6be8f464d37758d6/ad208/colmena6.png 340w,
-/static/9f0056b8aedbdbcd6be8f464d37758d6/a5a26/colmena6.png 680w,
-/static/9f0056b8aedbdbcd6be8f464d37758d6/60356/colmena6.png 1360w,
-/static/9f0056b8aedbdbcd6be8f464d37758d6/e957c/colmena6.png 1920w&quot;
+          srcset=&quot;/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/ad208/colmena6.png 340w,
+/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/a5a26/colmena6.png 680w,
+/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/60356/colmena6.png 1360w,
+/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/e957c/colmena6.png 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/9f0056b8aedbdbcd6be8f464d37758d6/60356/colmena6.png&quot;
+          src=&quot;/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/60356/colmena6.png&quot;
           alt=&quot;Comena App&quot;
           title=&quot;&quot;
-          src=&quot;/static/9f0056b8aedbdbcd6be8f464d37758d6/60356/colmena6.png&quot;
+          src=&quot;/portfolio/static/9f0056b8aedbdbcd6be8f464d37758d6/60356/colmena6.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -900,7 +900,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/aaa39a182b10544caa95105093dd6e25/562de/colmena7.png&quot;
+    href=&quot;/portfolio/static/aaa39a182b10544caa95105093dd6e25/562de/colmena7.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -916,28 +916,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/aaa39a182b10544caa95105093dd6e25/51a8e/colmena7.webp 340w,
-/static/aaa39a182b10544caa95105093dd6e25/713b7/colmena7.webp 680w,
-/static/aaa39a182b10544caa95105093dd6e25/54376/colmena7.webp 1360w,
-/static/aaa39a182b10544caa95105093dd6e25/50486/colmena7.webp 1447w&quot;
+          srcset=&quot;/portfolio/static/aaa39a182b10544caa95105093dd6e25/51a8e/colmena7.webp 340w,
+/portfolio/static/aaa39a182b10544caa95105093dd6e25/713b7/colmena7.webp 680w,
+/portfolio/static/aaa39a182b10544caa95105093dd6e25/54376/colmena7.webp 1360w,
+/portfolio/static/aaa39a182b10544caa95105093dd6e25/50486/colmena7.webp 1447w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/aaa39a182b10544caa95105093dd6e25/ad208/colmena7.png 340w,
-/static/aaa39a182b10544caa95105093dd6e25/a5a26/colmena7.png 680w,
-/static/aaa39a182b10544caa95105093dd6e25/60356/colmena7.png 1360w,
-/static/aaa39a182b10544caa95105093dd6e25/562de/colmena7.png 1447w&quot;
+          srcset=&quot;/portfolio/static/aaa39a182b10544caa95105093dd6e25/ad208/colmena7.png 340w,
+/portfolio/static/aaa39a182b10544caa95105093dd6e25/a5a26/colmena7.png 680w,
+/portfolio/static/aaa39a182b10544caa95105093dd6e25/60356/colmena7.png 1360w,
+/portfolio/static/aaa39a182b10544caa95105093dd6e25/562de/colmena7.png 1447w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/aaa39a182b10544caa95105093dd6e25/60356/colmena7.png&quot;
+          src=&quot;/portfolio/static/aaa39a182b10544caa95105093dd6e25/60356/colmena7.png&quot;
           alt=&quot;Comena App&quot;
           title=&quot;&quot;
-          src=&quot;/static/aaa39a182b10544caa95105093dd6e25/60356/colmena7.png&quot;
+          src=&quot;/portfolio/static/aaa39a182b10544caa95105093dd6e25/60356/colmena7.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -948,7 +948,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c8abddf6881a89fa70a957bda9f99dec/a5acf/colmena8.png&quot;
+    href=&quot;/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/a5acf/colmena8.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -964,28 +964,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/c8abddf6881a89fa70a957bda9f99dec/51a8e/colmena8.webp 340w,
-/static/c8abddf6881a89fa70a957bda9f99dec/713b7/colmena8.webp 680w,
-/static/c8abddf6881a89fa70a957bda9f99dec/54376/colmena8.webp 1360w,
-/static/c8abddf6881a89fa70a957bda9f99dec/3fe04/colmena8.webp 1665w&quot;
+          srcset=&quot;/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/51a8e/colmena8.webp 340w,
+/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/713b7/colmena8.webp 680w,
+/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/54376/colmena8.webp 1360w,
+/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/3fe04/colmena8.webp 1665w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/c8abddf6881a89fa70a957bda9f99dec/ad208/colmena8.png 340w,
-/static/c8abddf6881a89fa70a957bda9f99dec/a5a26/colmena8.png 680w,
-/static/c8abddf6881a89fa70a957bda9f99dec/60356/colmena8.png 1360w,
-/static/c8abddf6881a89fa70a957bda9f99dec/a5acf/colmena8.png 1665w&quot;
+          srcset=&quot;/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/ad208/colmena8.png 340w,
+/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/a5a26/colmena8.png 680w,
+/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/60356/colmena8.png 1360w,
+/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/a5acf/colmena8.png 1665w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/c8abddf6881a89fa70a957bda9f99dec/60356/colmena8.png&quot;
+          src=&quot;/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/60356/colmena8.png&quot;
           alt=&quot;Comena App&quot;
           title=&quot;&quot;
-          src=&quot;/static/c8abddf6881a89fa70a957bda9f99dec/60356/colmena8.png&quot;
+          src=&quot;/portfolio/static/c8abddf6881a89fa70a957bda9f99dec/60356/colmena8.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -996,7 +996,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/4cfb024faa85b71ad83e8394377f2e5d/e957c/colmena9.png&quot;
+    href=&quot;/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/e957c/colmena9.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1012,28 +1012,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/4cfb024faa85b71ad83e8394377f2e5d/51a8e/colmena9.webp 340w,
-/static/4cfb024faa85b71ad83e8394377f2e5d/713b7/colmena9.webp 680w,
-/static/4cfb024faa85b71ad83e8394377f2e5d/54376/colmena9.webp 1360w,
-/static/4cfb024faa85b71ad83e8394377f2e5d/e0aab/colmena9.webp 1920w&quot;
+          srcset=&quot;/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/51a8e/colmena9.webp 340w,
+/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/713b7/colmena9.webp 680w,
+/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/54376/colmena9.webp 1360w,
+/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/e0aab/colmena9.webp 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/4cfb024faa85b71ad83e8394377f2e5d/ad208/colmena9.png 340w,
-/static/4cfb024faa85b71ad83e8394377f2e5d/a5a26/colmena9.png 680w,
-/static/4cfb024faa85b71ad83e8394377f2e5d/60356/colmena9.png 1360w,
-/static/4cfb024faa85b71ad83e8394377f2e5d/e957c/colmena9.png 1920w&quot;
+          srcset=&quot;/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/ad208/colmena9.png 340w,
+/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/a5a26/colmena9.png 680w,
+/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/60356/colmena9.png 1360w,
+/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/e957c/colmena9.png 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/4cfb024faa85b71ad83e8394377f2e5d/60356/colmena9.png&quot;
+          src=&quot;/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/60356/colmena9.png&quot;
           alt=&quot;Comena App&quot;
           title=&quot;&quot;
-          src=&quot;/static/4cfb024faa85b71ad83e8394377f2e5d/60356/colmena9.png&quot;
+          src=&quot;/portfolio/static/4cfb024faa85b71ad83e8394377f2e5d/60356/colmena9.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1043,13 +1043,13 @@
     &lt;/p&gt;
 &lt;h3&gt;Landing site developed in Bootstrap&lt;/h3&gt;
 &lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/462c1649d829e984b586446198e001eb/Web-desktop.gif&quot; alt=&quot;Comena App&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/portfolio/462c1649d829e984b586446198e001eb/Web-desktop.gif&quot; alt=&quot;Comena App&quot;&gt;&lt;/p&gt;
 &lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/faaa61dadf0bba2b95c84f27cd691fc3/Web-mobile.gif&quot; alt=&quot;Comena App&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/portfolio/faaa61dadf0bba2b95c84f27cd691fc3/Web-mobile.gif&quot; alt=&quot;Comena App&quot;&gt;
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8b353d1fbf346556c41e31bea1115459/e957c/slogan.png&quot;
+    href=&quot;/portfolio/static/8b353d1fbf346556c41e31bea1115459/e957c/slogan.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1065,28 +1065,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/8b353d1fbf346556c41e31bea1115459/51a8e/slogan.webp 340w,
-/static/8b353d1fbf346556c41e31bea1115459/713b7/slogan.webp 680w,
-/static/8b353d1fbf346556c41e31bea1115459/54376/slogan.webp 1360w,
-/static/8b353d1fbf346556c41e31bea1115459/e0aab/slogan.webp 1920w&quot;
+          srcset=&quot;/portfolio/static/8b353d1fbf346556c41e31bea1115459/51a8e/slogan.webp 340w,
+/portfolio/static/8b353d1fbf346556c41e31bea1115459/713b7/slogan.webp 680w,
+/portfolio/static/8b353d1fbf346556c41e31bea1115459/54376/slogan.webp 1360w,
+/portfolio/static/8b353d1fbf346556c41e31bea1115459/e0aab/slogan.webp 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/8b353d1fbf346556c41e31bea1115459/ad208/slogan.png 340w,
-/static/8b353d1fbf346556c41e31bea1115459/a5a26/slogan.png 680w,
-/static/8b353d1fbf346556c41e31bea1115459/60356/slogan.png 1360w,
-/static/8b353d1fbf346556c41e31bea1115459/e957c/slogan.png 1920w&quot;
+          srcset=&quot;/portfolio/static/8b353d1fbf346556c41e31bea1115459/ad208/slogan.png 340w,
+/portfolio/static/8b353d1fbf346556c41e31bea1115459/a5a26/slogan.png 680w,
+/portfolio/static/8b353d1fbf346556c41e31bea1115459/60356/slogan.png 1360w,
+/portfolio/static/8b353d1fbf346556c41e31bea1115459/e957c/slogan.png 1920w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/8b353d1fbf346556c41e31bea1115459/60356/slogan.png&quot;
+          src=&quot;/portfolio/static/8b353d1fbf346556c41e31bea1115459/60356/slogan.png&quot;
           alt=&quot;Comena App&quot;
           title=&quot;&quot;
-          src=&quot;/static/8b353d1fbf346556c41e31bea1115459/60356/slogan.png&quot;
+          src=&quot;/portfolio/static/8b353d1fbf346556c41e31bea1115459/60356/slogan.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1100,7 +1100,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/20b868e4f5bcda0010e2d8b4a78f1b3a/44c9e/gato2.png&quot;
+    href=&quot;/portfolio/static/20b868e4f5bcda0010e2d8b4a78f1b3a/44c9e/gato2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1116,26 +1116,26 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/20b868e4f5bcda0010e2d8b4a78f1b3a/51a8e/gato2.webp 340w,
-/static/20b868e4f5bcda0010e2d8b4a78f1b3a/713b7/gato2.webp 680w,
-/static/20b868e4f5bcda0010e2d8b4a78f1b3a/6e469/gato2.webp 1219w&quot;
+          srcset=&quot;/portfolio/static/20b868e4f5bcda0010e2d8b4a78f1b3a/51a8e/gato2.webp 340w,
+/portfolio/static/20b868e4f5bcda0010e2d8b4a78f1b3a/713b7/gato2.webp 680w,
+/portfolio/static/20b868e4f5bcda0010e2d8b4a78f1b3a/6e469/gato2.webp 1219w&quot;
           sizes=&quot;(max-width: 1219px) 100vw, 1219px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/20b868e4f5bcda0010e2d8b4a78f1b3a/ad208/gato2.png 340w,
-/static/20b868e4f5bcda0010e2d8b4a78f1b3a/a5a26/gato2.png 680w,
-/static/20b868e4f5bcda0010e2d8b4a78f1b3a/44c9e/gato2.png 1219w&quot;
+          srcset=&quot;/portfolio/static/20b868e4f5bcda0010e2d8b4a78f1b3a/ad208/gato2.png 340w,
+/portfolio/static/20b868e4f5bcda0010e2d8b4a78f1b3a/a5a26/gato2.png 680w,
+/portfolio/static/20b868e4f5bcda0010e2d8b4a78f1b3a/44c9e/gato2.png 1219w&quot;
           sizes=&quot;(max-width: 1219px) 100vw, 1219px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/20b868e4f5bcda0010e2d8b4a78f1b3a/44c9e/gato2.png&quot;
+          src=&quot;/portfolio/static/20b868e4f5bcda0010e2d8b4a78f1b3a/44c9e/gato2.png&quot;
           alt=&quot;BlackCat&quot;
           title=&quot;&quot;
-          src=&quot;/static/20b868e4f5bcda0010e2d8b4a78f1b3a/44c9e/gato2.png&quot;
+          src=&quot;/portfolio/static/20b868e4f5bcda0010e2d8b4a78f1b3a/44c9e/gato2.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1146,7 +1146,7 @@
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ff7b90b307947669678b3de9b910446a/27aef/gato3.png&quot;
+    href=&quot;/portfolio/static/ff7b90b307947669678b3de9b910446a/27aef/gato3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1162,26 +1162,26 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/ff7b90b307947669678b3de9b910446a/51a8e/gato3.webp 340w,
-/static/ff7b90b307947669678b3de9b910446a/713b7/gato3.webp 680w,
-/static/ff7b90b307947669678b3de9b910446a/7d7f1/gato3.webp 1052w&quot;
+          srcset=&quot;/portfolio/static/ff7b90b307947669678b3de9b910446a/51a8e/gato3.webp 340w,
+/portfolio/static/ff7b90b307947669678b3de9b910446a/713b7/gato3.webp 680w,
+/portfolio/static/ff7b90b307947669678b3de9b910446a/7d7f1/gato3.webp 1052w&quot;
           sizes=&quot;(max-width: 1052px) 100vw, 1052px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/ff7b90b307947669678b3de9b910446a/ad208/gato3.png 340w,
-/static/ff7b90b307947669678b3de9b910446a/a5a26/gato3.png 680w,
-/static/ff7b90b307947669678b3de9b910446a/27aef/gato3.png 1052w&quot;
+          srcset=&quot;/portfolio/static/ff7b90b307947669678b3de9b910446a/ad208/gato3.png 340w,
+/portfolio/static/ff7b90b307947669678b3de9b910446a/a5a26/gato3.png 680w,
+/portfolio/static/ff7b90b307947669678b3de9b910446a/27aef/gato3.png 1052w&quot;
           sizes=&quot;(max-width: 1052px) 100vw, 1052px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/ff7b90b307947669678b3de9b910446a/27aef/gato3.png&quot;
+          src=&quot;/portfolio/static/ff7b90b307947669678b3de9b910446a/27aef/gato3.png&quot;
           alt=&quot;BlackCat&quot;
           title=&quot;&quot;
-          src=&quot;/static/ff7b90b307947669678b3de9b910446a/27aef/gato3.png&quot;
+          src=&quot;/portfolio/static/ff7b90b307947669678b3de9b910446a/27aef/gato3.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1198,15 +1198,15 @@ That is because he was very well integrated in the escene:&lt;/p&gt;
 &lt;li&gt;Selective color adjustment.&lt;/li&gt;
 &lt;li&gt;Water reflection added with plugin.&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Digital Art]]></title><description><![CDATA[“Nature always wears the colors of the spirit”. Ralph Waldo Emerson]]></description><link>https://julianmojico.com/montañas/</link><guid isPermaLink="false">https://julianmojico.com/montañas/</guid><pubDate>Wed, 27 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;“Nature always wears the colors of the spirit”&lt;/em&gt;.&lt;br&gt;
-Ralph Waldo Emerson&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Digital Art]]></title><description><![CDATA[Played around with some textures (dress, hair, gloves and shoes).
+Ralph Waldo Emerson&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Digital Art]]></title><description><![CDATA[Well, this is just me. But I like my new hair. 😎]]></description><link>https://julianmojico.com/justme/</link><guid isPermaLink="false">https://julianmojico.com/justme/</guid><pubDate>Wed, 27 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Well, this is just me.&lt;br&gt;
+But I like my new hair. 😎&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Digital Art]]></title><description><![CDATA[Played around with some textures (dress, hair, gloves and shoes).
 Tested different brushes for shadow and lights, giving deep of field…]]></description><link>https://julianmojico.com/lola/</link><guid isPermaLink="false">https://julianmojico.com/lola/</guid><pubDate>Wed, 27 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Played around with some textures (dress, hair, gloves and shoes).
 Tested different brushes for shadow and lights, giving deep of field.
 Finally search for the right color scheme, applied some filters, blurness and masked the scene with a centered circle to finish the cartoonish layout.&lt;/p&gt;
-&lt;p&gt;Isn’t she stunning?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Digital Art]]></title><description><![CDATA[Well, this is just me. But I like my new hair. 😎]]></description><link>https://julianmojico.com/justme/</link><guid isPermaLink="false">https://julianmojico.com/justme/</guid><pubDate>Wed, 27 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Well, this is just me.&lt;br&gt;
-But I like my new hair. 😎&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Game Portrait]]></title><description><![CDATA[This scene doesn’t look good… What happens next? 🤔]]></description><link>https://julianmojico.com/Astrocolonia/</link><guid isPermaLink="false">https://julianmojico.com/Astrocolonia/</guid><pubDate>Wed, 27 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;
+&lt;p&gt;Isn’t she stunning?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Game Portrait]]></title><description><![CDATA[This scene doesn’t look good… What happens next? 🤔]]></description><link>https://julianmojico.com/Astrocolonia/</link><guid isPermaLink="false">https://julianmojico.com/Astrocolonia/</guid><pubDate>Wed, 27 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/78435e03e7b8c49026ad3bbd19522522/08ee1/astrocolonia1.jpg&quot;
+    href=&quot;/portfolio/static/78435e03e7b8c49026ad3bbd19522522/08ee1/astrocolonia1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1222,32 +1222,32 @@ But I like my new hair. 😎&lt;/p&gt;</content:encoded></item><item><title><![C
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/78435e03e7b8c49026ad3bbd19522522/51a8e/astrocolonia1.webp 340w,
-/static/78435e03e7b8c49026ad3bbd19522522/713b7/astrocolonia1.webp 680w,
-/static/78435e03e7b8c49026ad3bbd19522522/54376/astrocolonia1.webp 1360w,
-/static/78435e03e7b8c49026ad3bbd19522522/0be89/astrocolonia1.webp 2040w,
-/static/78435e03e7b8c49026ad3bbd19522522/71194/astrocolonia1.webp 2720w,
-/static/78435e03e7b8c49026ad3bbd19522522/9c26c/astrocolonia1.webp 3508w&quot;
+          srcset=&quot;/portfolio/static/78435e03e7b8c49026ad3bbd19522522/51a8e/astrocolonia1.webp 340w,
+/portfolio/static/78435e03e7b8c49026ad3bbd19522522/713b7/astrocolonia1.webp 680w,
+/portfolio/static/78435e03e7b8c49026ad3bbd19522522/54376/astrocolonia1.webp 1360w,
+/portfolio/static/78435e03e7b8c49026ad3bbd19522522/0be89/astrocolonia1.webp 2040w,
+/portfolio/static/78435e03e7b8c49026ad3bbd19522522/71194/astrocolonia1.webp 2720w,
+/portfolio/static/78435e03e7b8c49026ad3bbd19522522/9c26c/astrocolonia1.webp 3508w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/78435e03e7b8c49026ad3bbd19522522/2e524/astrocolonia1.jpg 340w,
-/static/78435e03e7b8c49026ad3bbd19522522/d330d/astrocolonia1.jpg 680w,
-/static/78435e03e7b8c49026ad3bbd19522522/6c26c/astrocolonia1.jpg 1360w,
-/static/78435e03e7b8c49026ad3bbd19522522/afd2d/astrocolonia1.jpg 2040w,
-/static/78435e03e7b8c49026ad3bbd19522522/f4749/astrocolonia1.jpg 2720w,
-/static/78435e03e7b8c49026ad3bbd19522522/08ee1/astrocolonia1.jpg 3508w&quot;
+          srcset=&quot;/portfolio/static/78435e03e7b8c49026ad3bbd19522522/2e524/astrocolonia1.jpg 340w,
+/portfolio/static/78435e03e7b8c49026ad3bbd19522522/d330d/astrocolonia1.jpg 680w,
+/portfolio/static/78435e03e7b8c49026ad3bbd19522522/6c26c/astrocolonia1.jpg 1360w,
+/portfolio/static/78435e03e7b8c49026ad3bbd19522522/afd2d/astrocolonia1.jpg 2040w,
+/portfolio/static/78435e03e7b8c49026ad3bbd19522522/f4749/astrocolonia1.jpg 2720w,
+/portfolio/static/78435e03e7b8c49026ad3bbd19522522/08ee1/astrocolonia1.jpg 3508w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/78435e03e7b8c49026ad3bbd19522522/6c26c/astrocolonia1.jpg&quot;
+          src=&quot;/portfolio/static/78435e03e7b8c49026ad3bbd19522522/6c26c/astrocolonia1.jpg&quot;
           alt=&quot;Astrocolonia1&quot;
           title=&quot;&quot;
-          src=&quot;/static/78435e03e7b8c49026ad3bbd19522522/6c26c/astrocolonia1.jpg&quot;
+          src=&quot;/portfolio/static/78435e03e7b8c49026ad3bbd19522522/6c26c/astrocolonia1.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1258,7 +1258,7 @@ But I like my new hair. 😎&lt;/p&gt;</content:encoded></item><item><title><![C
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6cce2354c022509b8e0b1d9c3f0504a9/08ee1/astrocolonia2.jpg&quot;
+    href=&quot;/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/08ee1/astrocolonia2.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1274,32 +1274,32 @@ But I like my new hair. 😎&lt;/p&gt;</content:encoded></item><item><title><![C
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/6cce2354c022509b8e0b1d9c3f0504a9/51a8e/astrocolonia2.webp 340w,
-/static/6cce2354c022509b8e0b1d9c3f0504a9/713b7/astrocolonia2.webp 680w,
-/static/6cce2354c022509b8e0b1d9c3f0504a9/54376/astrocolonia2.webp 1360w,
-/static/6cce2354c022509b8e0b1d9c3f0504a9/0be89/astrocolonia2.webp 2040w,
-/static/6cce2354c022509b8e0b1d9c3f0504a9/71194/astrocolonia2.webp 2720w,
-/static/6cce2354c022509b8e0b1d9c3f0504a9/9c26c/astrocolonia2.webp 3508w&quot;
+          srcset=&quot;/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/51a8e/astrocolonia2.webp 340w,
+/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/713b7/astrocolonia2.webp 680w,
+/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/54376/astrocolonia2.webp 1360w,
+/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/0be89/astrocolonia2.webp 2040w,
+/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/71194/astrocolonia2.webp 2720w,
+/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/9c26c/astrocolonia2.webp 3508w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/6cce2354c022509b8e0b1d9c3f0504a9/2e524/astrocolonia2.jpg 340w,
-/static/6cce2354c022509b8e0b1d9c3f0504a9/d330d/astrocolonia2.jpg 680w,
-/static/6cce2354c022509b8e0b1d9c3f0504a9/6c26c/astrocolonia2.jpg 1360w,
-/static/6cce2354c022509b8e0b1d9c3f0504a9/afd2d/astrocolonia2.jpg 2040w,
-/static/6cce2354c022509b8e0b1d9c3f0504a9/f4749/astrocolonia2.jpg 2720w,
-/static/6cce2354c022509b8e0b1d9c3f0504a9/08ee1/astrocolonia2.jpg 3508w&quot;
+          srcset=&quot;/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/2e524/astrocolonia2.jpg 340w,
+/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/d330d/astrocolonia2.jpg 680w,
+/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/6c26c/astrocolonia2.jpg 1360w,
+/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/afd2d/astrocolonia2.jpg 2040w,
+/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/f4749/astrocolonia2.jpg 2720w,
+/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/08ee1/astrocolonia2.jpg 3508w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/6cce2354c022509b8e0b1d9c3f0504a9/6c26c/astrocolonia2.jpg&quot;
+          src=&quot;/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/6c26c/astrocolonia2.jpg&quot;
           alt=&quot;Astrocolonia2&quot;
           title=&quot;&quot;
-          src=&quot;/static/6cce2354c022509b8e0b1d9c3f0504a9/6c26c/astrocolonia2.jpg&quot;
+          src=&quot;/portfolio/static/6cce2354c022509b8e0b1d9c3f0504a9/6c26c/astrocolonia2.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1313,7 +1313,7 @@ But I like my new hair. 😎&lt;/p&gt;</content:encoded></item><item><title><![C
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7f8d2b0c33173904fb72d81c6b54d978/75547/agilisys3.png&quot;
+    href=&quot;/portfolio/static/7f8d2b0c33173904fb72d81c6b54d978/75547/agilisys3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1329,26 +1329,26 @@ But I like my new hair. 😎&lt;/p&gt;</content:encoded></item><item><title><![C
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/7f8d2b0c33173904fb72d81c6b54d978/51a8e/agilisys3.webp 340w,
-/static/7f8d2b0c33173904fb72d81c6b54d978/713b7/agilisys3.webp 680w,
-/static/7f8d2b0c33173904fb72d81c6b54d978/ea921/agilisys3.webp 1247w&quot;
+          srcset=&quot;/portfolio/static/7f8d2b0c33173904fb72d81c6b54d978/51a8e/agilisys3.webp 340w,
+/portfolio/static/7f8d2b0c33173904fb72d81c6b54d978/713b7/agilisys3.webp 680w,
+/portfolio/static/7f8d2b0c33173904fb72d81c6b54d978/ea921/agilisys3.webp 1247w&quot;
           sizes=&quot;(max-width: 1247px) 100vw, 1247px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/7f8d2b0c33173904fb72d81c6b54d978/ad208/agilisys3.png 340w,
-/static/7f8d2b0c33173904fb72d81c6b54d978/a5a26/agilisys3.png 680w,
-/static/7f8d2b0c33173904fb72d81c6b54d978/75547/agilisys3.png 1247w&quot;
+          srcset=&quot;/portfolio/static/7f8d2b0c33173904fb72d81c6b54d978/ad208/agilisys3.png 340w,
+/portfolio/static/7f8d2b0c33173904fb72d81c6b54d978/a5a26/agilisys3.png 680w,
+/portfolio/static/7f8d2b0c33173904fb72d81c6b54d978/75547/agilisys3.png 1247w&quot;
           sizes=&quot;(max-width: 1247px) 100vw, 1247px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/7f8d2b0c33173904fb72d81c6b54d978/75547/agilisys3.png&quot;
+          src=&quot;/portfolio/static/7f8d2b0c33173904fb72d81c6b54d978/75547/agilisys3.png&quot;
           alt=&quot;AgilisysScreen&quot;
           title=&quot;&quot;
-          src=&quot;/static/7f8d2b0c33173904fb72d81c6b54d978/75547/agilisys3.png&quot;
+          src=&quot;/portfolio/static/7f8d2b0c33173904fb72d81c6b54d978/75547/agilisys3.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1359,7 +1359,7 @@ But I like my new hair. 😎&lt;/p&gt;</content:encoded></item><item><title><![C
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ef2562d490b9896f1eaaa12572cb993a/1602d/agilisys4.jpg&quot;
+    href=&quot;/portfolio/static/ef2562d490b9896f1eaaa12572cb993a/1602d/agilisys4.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1375,26 +1375,26 @@ But I like my new hair. 😎&lt;/p&gt;</content:encoded></item><item><title><![C
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/ef2562d490b9896f1eaaa12572cb993a/51a8e/agilisys4.webp 340w,
-/static/ef2562d490b9896f1eaaa12572cb993a/713b7/agilisys4.webp 680w,
-/static/ef2562d490b9896f1eaaa12572cb993a/05828/agilisys4.webp 1253w&quot;
+          srcset=&quot;/portfolio/static/ef2562d490b9896f1eaaa12572cb993a/51a8e/agilisys4.webp 340w,
+/portfolio/static/ef2562d490b9896f1eaaa12572cb993a/713b7/agilisys4.webp 680w,
+/portfolio/static/ef2562d490b9896f1eaaa12572cb993a/05828/agilisys4.webp 1253w&quot;
           sizes=&quot;(max-width: 1253px) 100vw, 1253px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/ef2562d490b9896f1eaaa12572cb993a/2e524/agilisys4.jpg 340w,
-/static/ef2562d490b9896f1eaaa12572cb993a/d330d/agilisys4.jpg 680w,
-/static/ef2562d490b9896f1eaaa12572cb993a/1602d/agilisys4.jpg 1253w&quot;
+          srcset=&quot;/portfolio/static/ef2562d490b9896f1eaaa12572cb993a/2e524/agilisys4.jpg 340w,
+/portfolio/static/ef2562d490b9896f1eaaa12572cb993a/d330d/agilisys4.jpg 680w,
+/portfolio/static/ef2562d490b9896f1eaaa12572cb993a/1602d/agilisys4.jpg 1253w&quot;
           sizes=&quot;(max-width: 1253px) 100vw, 1253px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/ef2562d490b9896f1eaaa12572cb993a/1602d/agilisys4.jpg&quot;
+          src=&quot;/portfolio/static/ef2562d490b9896f1eaaa12572cb993a/1602d/agilisys4.jpg&quot;
           alt=&quot;AgilisysScreen&quot;
           title=&quot;&quot;
-          src=&quot;/static/ef2562d490b9896f1eaaa12572cb993a/1602d/agilisys4.jpg&quot;
+          src=&quot;/portfolio/static/ef2562d490b9896f1eaaa12572cb993a/1602d/agilisys4.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
