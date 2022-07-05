@@ -1,9 +1,8 @@
 {
-  "name": "gatsby-london",
+  "name": "jm-portfolio",
   "private": true,
-  "description": "A custom, image-centric theme for Gatsby",
+  "description": "Personal porfolio built in GatsbyJs",
   "version": "1.0.0",
-  "author": "Imed Adel <aadelimed@gmail.com>",
   "bugs": {
     "url": "https://github.com/ImedAdel/gatsby-london/issues"
   },
@@ -48,19 +47,7 @@
     "pretty-quick": "^1.10.0"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby",
-    "ghost",
-    "gallery",
-    "blog",
-    "starter"
-  ],
   "license": "MIT",
-  "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ImedAdel/gatsby-london.git"
-  },
   "scripts": {
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
