@@ -2,8 +2,7 @@ module.exports = {
   name: "Julian Mojico",
   shortName: "Portfolio",
   description: "Design, gaming and development",
-  url: "https://julianmojico.com", // Domain of your site without prefix!
-  prefix: "/",
+  url: "https://julianmojico.github.io", // Domain of your site without prefix!
+  prefix: "/portfolio",
   author: "Julian Mojico",
-  twitter: "https://twitter.com/Cepii_Mojico",
 }

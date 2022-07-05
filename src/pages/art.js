@@ -50,7 +50,7 @@ const indexQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___date], order: ASC }
       filter: { frontmatter: { category: { in: "art" } } }
     ) {
       edges {
