@@ -1,7 +1,7 @@
 ---
 title: App Branding
 date: "2023-05-28T22:40:32.169Z"
-description:  With Colmena, students and professors can track progress of education career, share resources and feedback.
+description:  Complete Branding, landing site and development
 thumbnail: ./colmena-thumb.png
 showThumbnailAtStart: false
 category: design
