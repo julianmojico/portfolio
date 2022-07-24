@@ -2,11 +2,12 @@ const urljoin = require("url-join")
 const siteConfig = require("./siteConfig")
 
 module.exports = {
+  pathPrefix: "/portfolio",
   siteMetadata: {
     title: siteConfig.name,
     author: siteConfig.author,
     description: siteConfig.description,
-    siteUrl: urljoin(siteConfig.url),
+    siteUrl: urljoin(siteConfig.url, siteConfig.prefix),
   },
   plugins: [
     {
