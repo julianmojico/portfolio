@@ -1,8 +1,10 @@
 ---
-title: Digital Art
+order: 3
+title: Digital Painting
 date: "2015-05-27T22:40:32.169Z"
-description:  Photoshop scene
+description:  Crafted using Wacom Intuos Pro
 thumbnail: ./mountain1.png
+showThumbnailAtStart: true
 category: art
 ---
 

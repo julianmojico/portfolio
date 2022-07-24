@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PostCard from "../components/postCard"
@@ -17,12 +16,18 @@ const ArtPage = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="All posts"
-        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+        title="Artwork, character and stories"
+        keywords={[
+          `design`,
+          `designer`,
+          `digital art`,
+          `portfolio`,
+          `creative developer`,
+        ]}
       />
       {/* <Bio /> */}
       <header className="page-head">
-        <h2 className="page-head-title">Characters and stories</h2>
+        <h2 className="page-head-title">Artwork, character and stories</h2>
       </header>
       <div className="post-feed">
         {posts.map(({ node }) => {
@@ -50,7 +55,7 @@ const indexQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: ASC }
+      sort: { fields: [frontmatter___order], order: ASC }
       filter: { frontmatter: { category: { in: "art" } } }
     ) {
       edges {

@@ -1,8 +1,10 @@
 ---
-title: Digital Art
+order: 5
+title: Sulli's trip to Asia
 date: "2015-05-27T22:40:32.169Z"
-description:  Photoshop scene
+description:  Digital composition
 thumbnail: ./Sullivan1.jpg
+showThumbnailAtEnd: true
 category: art
 ---
 

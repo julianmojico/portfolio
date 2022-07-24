@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -10,6 +9,7 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const showThumbnailAtStart = post.frontmatter.showThumbnailAtStart
+    const showThumbnailAtEnd = post.frontmatter.showThumbnailAtEnd
 
     const thumbnail = (
       <div className="post-content-image">
@@ -35,7 +35,9 @@ class BlogPostTemplate extends React.Component {
           </header>
 
           {post.frontmatter.description && (
-            <p class="post-content-excerpt">{post.frontmatter.description}</p>
+            <p className="post-content-excerpt">
+              {post.frontmatter.description}
+            </p>
           )}
 
           {showThumbnailAtStart && post.frontmatter.thumbnail && thumbnail}
@@ -44,7 +46,7 @@ class BlogPostTemplate extends React.Component {
             className="post-content-body"
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
-          {!showThumbnailAtStart && post.frontmatter.thumbnail && thumbnail}
+          {showThumbnailAtEnd && post.frontmatter.thumbnail && thumbnail}
 
           <footer className="post-content-footer">
             {/* There are two options for how we display the byline/author-info.
@@ -74,6 +76,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         showThumbnailAtStart
+        showThumbnailAtEnd
         title
         date(formatString: "MMMM DD, YYYY")
         description

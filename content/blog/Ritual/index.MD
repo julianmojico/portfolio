@@ -1,8 +1,10 @@
 ---
-title: Digital Art
+order: 1
+title: Ritual
 date: "2010-05-27T22:40:32.169Z"
 description:  Photoshop scene
 thumbnail: ./Ritual.png
+showThumbnailAtEnd: true
 category: art
 ---
 
