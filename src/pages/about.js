@@ -31,17 +31,16 @@ const AboutPage = ({ data }, location) => {
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            {/* <figcaption>Large imagery is at the heart of this theme</figcaption> */}
+            <figcaption>Julian Mojico</figcaption>
           </figure>
           <h3 id="dynamic-styles">Professional profile</h3>
           <p>
-            I'm bachelor's in <b>Systems Degree</b> and{" "}
-            <b>Creative Developer</b>.<br></br>
-            Currenty studying Multimedia Design.
-          </p>
-          <p>
-            I’m a highly motivated person and I love my work.<br></br>
-            Specially creating applications that people enjoys and understand.
+            Visual expressions are fascinating, we all know that. I'm a Designer
+            and Web Developer; I use colors, contrasts and movement to
+            communicate, to deliver a message. I love crafting design pieces;
+            from product designs, event banners to motion graphics and 3D
+            animations. Specially creating digital experiences that people enjoy
+            using.
             <br></br>I consider myself a communicative person with a great sense
             of teaming.
           </p>
