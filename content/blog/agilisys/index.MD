@@ -15,4 +15,8 @@ category: ux
 ![AgilisysScreen](./agilisys2.gif)
 ![AgilisysScreen](./agilisys3.png)
 ![AgilisysScreen](./agilisys4.jpg)
+  
+    
+![AgilisysScreen](agilisys6.gif)
+
 ### Visit the <a href="https://julianmojico.github.io/agilisysFront/" target="_blank">site</a>

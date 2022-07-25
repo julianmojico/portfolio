@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
 import Img from "gatsby-image"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -25,31 +24,35 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h5>Hi, I'm Julian 👋</h5>
-          <figure className="kg-card kg-image-card kg-width-full">
-            <Img
-              fluid={data.benchAccounting.childImageSharp.fluid}
-              className="kg-image"
-            />
-            <figcaption>Julian Mojico</figcaption>
-          </figure>
-          <h3 id="dynamic-styles">Professional profile</h3>
+          <div className="bio">
+            <h3 id="dynamic-styles">Hi, I'm Julian 👋</h3>
+
+            <figure className="kg-card kg-image-card kg-width-full">
+              <Img
+                // fluid={data.benchAccounting.childImageSharp.fluid}
+                fixed={data.benchAccounting.childImageSharp.fixed}
+                className="kg-image-avatar"
+              />
+            </figure>
+          </div>
           <p>
-            Visual expressions are fascinating, we all know that. I'm a Designer
-            and Web Developer; I use colors, contrasts and movement to
-            communicate, to deliver a message. I love crafting design pieces;
-            from product designs, event banners to motion graphics and 3D
-            animations. Specially creating digital experiences that people enjoy
-            using.
-            <br></br>I consider myself a communicative person with a great sense
-            of teaming.
+            I'm a <b>designer</b> and <b>web developer</b>.<br></br>I help
+            brands deliver a message to their audiences in a clean, creative
+            way.
           </p>
           <p>
-            Don't forget to check out my{" "}
-            <a target="_blank" href="https://www.linkedin.com/in/julianmojico/">
-              linkedin profile.
-            </a>{" "}
+            {" "}
+            Getting involved with products and campaigns is really fun.<br></br>
+            <b>Design pieces</b>:
           </p>
+          <br></br>
+          <ul>
+            <li>Product Design</li>
+            <li>Social Banners</li>
+            <li>Icon sets</li>
+            <li>Motion graphics</li>
+            <li>3D Environments</li>
+          </ul>
         </div>
       </article>
     </Layout>
@@ -65,6 +68,9 @@ const indexQuery = graphql`
     }
     benchAccounting: file(relativePath: { eq: "julian.jpg" }) {
       childImageSharp {
+        fixed(width: 200, height: 200) {
+          ...GatsbyImageSharpFixed
+        }
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
         }

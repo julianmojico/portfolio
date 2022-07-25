@@ -1,9 +1,9 @@
 /* Styling for Ghost-specific elements
 /* ---------------------------------------------------------- */
 
-.kg-card {
+/* .kg-card {
   margin: 7vw 0;
-}
+} */
 
 .kg-embed-card {
   display: flex;
@@ -15,6 +15,10 @@
 .kg-image {
   max-width: 100%;
   width: 100%;
+}
+
+.kg-image-avatar {
+  border-radius: 50%;
 }
 
 .kg-card figcaption {
@@ -97,4 +101,9 @@
 .kg-image-card.kg-width-wide + .kg-gallery-card,
 .kg-image-card.kg-width-wide + .kg-image-card.kg-width-wide {
   margin-top: calc(-7vw + 0.75em);
+}
+
+.bio {
+  display: flex;
+  justify-content: space-between;
 }
