@@ -11,7 +11,7 @@ In this HTML animated story you choose what happens next.
 **And you face the consequences.**
 
 You will also enjoy some creepy music and FXs I did.
-###  👉 Play the <a href="https://julianmojico.github.io/gato-negro-game/" target="_blank">story</a>!
+###  👉 Play the <a href="https://julianmojico.github.io/gato-negro-game/" target="_blank">story</a>!👈
 
 
 ### Screens

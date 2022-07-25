@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 6
 title: Sulli's trip to Asia
 date: "2015-05-27T22:40:32.169Z"
 description:  Digital composition
