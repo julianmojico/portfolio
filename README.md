@@ -12,7 +12,7 @@ Enter http://localhost:8000/ or http://localhost:8000/___graphql
 ```
 npm run build
 git checkout gh-pages
-mv ./public/* .
+rsync -a ./public/* .
 git add .
 git commit -m ‘build & deploy’
 git push
