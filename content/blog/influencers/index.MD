@@ -3,7 +3,7 @@ order: 4
 title: WebApp Development
 date: "2015-05-27T22:40:32.169Z"
 description:  React, HTML and CSS
-thumbnail: ./influencers1.png
+thumbnail: ./thumb2.png
 showThumbnailAtEnd: false
 category: development
 ---

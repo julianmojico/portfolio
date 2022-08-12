@@ -26,8 +26,7 @@ const AboutPage = ({ data }, location) => {
         <div className="post-content-body">
           <div className="bio">
             <h3 id="dynamic-styles">Hi, I'm Julian 👋</h3>
-
-            <figure className="kg-card kg-image-card kg-width-full">
+            <figure>
               <Img
                 // fluid={data.benchAccounting.childImageSharp.fluid}
                 fixed={data.benchAccounting.childImageSharp.fixed}
