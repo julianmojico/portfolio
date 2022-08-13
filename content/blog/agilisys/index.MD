@@ -6,6 +6,7 @@ thumbnail: ./agilisys1.png
 showThumbnailAtStart: false
 showThumbnailAtEnd: false
 category: ux
+hide: true
 ---
 
 

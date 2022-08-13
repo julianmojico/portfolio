@@ -28,14 +28,18 @@ const BlogIndex = ({ data }, location) => {
       )}
       <div className="post-feed">
         {posts.map(({ node }) => {
+          const hide = node.frontmatter.hide ? true : false
+          console.log("EL VALOR DE DISPLAY: ", hide)
           postCounter++
           return (
-            <PostCard
-              key={node.fields.slug}
-              count={postCounter}
-              node={node}
-              postClass={`post`}
-            />
+            !hide && (
+              <PostCard
+                key={node.fields.slug}
+                count={postCounter}
+                node={node}
+                postClass={`post`}
+              />
+            )
           )
         })}
       </div>
@@ -62,6 +66,7 @@ const indexQuery = graphql`
             slug
           }
           frontmatter {
+            hide
             date(formatString: "MMMM DD, YYYY")
             title
             description
