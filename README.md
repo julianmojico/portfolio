@@ -7,16 +7,11 @@
 -Execute locally: `npm run develop`  
 Enter http://localhost:8000/ or http://localhost:8000/___graphql
 
--Deploy to Github Pages:
+## HOW TO DEPLOY
 
-```
-npm run build
-git checkout gh-pages
-rsync -a ./public/* .
-git add .
-git commit -m ‘build & deploy’
-git push
-```
+1. Push to `main` branch
+2. Trigger a build in GatsbyCloud
+3. After build is finished, check your changes are published in `julianmojico.com`
 
 NOTE: If you need to add pathPrefix to URL, search for reference commits from July 22nd, 2022.
 You will also have to switch github pages to github domain (not custom domain)
