@@ -19,4 +19,4 @@ You will also have to switch github pages to github domain (not custom domain)
 
 ## REGISTER SETUP
 
-Nic > AWS Route53 > GatsbyCloud (hosting + pipelines)
+Nic > AWS Route53 (teletrader.ventas@) > GatsbyCloud (hosting + pipelines)
