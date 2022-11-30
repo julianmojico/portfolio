@@ -15,3 +15,8 @@ Enter http://localhost:8000/ or http://localhost:8000/___graphql
 
 NOTE: If you need to add pathPrefix to URL, search for reference commits from July 22nd, 2022.
 You will also have to switch github pages to github domain (not custom domain)
+
+
+## REGISTER SETUP
+
+Nic > AWS Route53 > GatsbyCloud (hosting + pipelines)
